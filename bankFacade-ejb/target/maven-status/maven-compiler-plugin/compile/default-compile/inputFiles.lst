@@ -1,6 +1,6 @@
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/Payment.java
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/MapPaymentDAO.java
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceEndpointInterface.java
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/PaymentStatus.java
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/PaymentDAO.java
-/home/maxime/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceBean.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/MapPaymentDAO.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/PaymentDAO.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceBean.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceEndpointInterface.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/Payment.java
+/home/maxime/javaProjects/ExJavaEE3/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/PaymentStatus.java
